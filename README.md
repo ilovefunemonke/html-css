@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://ilovefunemonke.github.io/html-css/desafios/d10/adroid.html">Executar o desafio 10</a>
+<a href="https://ilovefunemonke.github.io/html-css/desafios/d10/android.html">Executar o desafio 10</a>
